@@ -21,6 +21,7 @@ main {
     width: 100%;
 }
 .yellowbox {
+    position: relative;
     display: flex;
     box-sizing: border-box;
     border: yellow 5px solid;
